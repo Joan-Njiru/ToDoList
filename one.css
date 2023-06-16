@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(42, 42, 56);
+    color: white;
+    text-align: center;
+}
+#addTask{
+    margin-top: 10%;
+}
+
+
+.hi{
+    display: flex;
+    justify-content: space-between;
+}
+#add{
+    width: 30px;
+    height: 20px;
+    object-fit: contain;
+}
+#list{
+    padding: 12px 80px;
+    border-radius: 5px;
+}
